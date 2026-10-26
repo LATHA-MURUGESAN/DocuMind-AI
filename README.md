@@ -16,3 +16,7 @@ ollama list
 ```
 
 Supports PDF, TXT, and DOCX. Scanned PDFs need OCR. ChromaDB uses in-memory storage in this demo, so the index resets when Streamlit restarts.
+
+
+
+
